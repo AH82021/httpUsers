@@ -1,4 +1,4 @@
-package org.bianrylogicit.httpusers.user;
+package org.armancodeblock.httpusers.user;
 
 public record Address(
         String street,

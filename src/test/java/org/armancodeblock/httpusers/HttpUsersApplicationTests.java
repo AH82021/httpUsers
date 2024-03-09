@@ -1,4 +1,4 @@
-package org.bianrylogicit.httpusers;
+package org.armancodeblock.httpusers;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

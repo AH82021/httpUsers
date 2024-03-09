@@ -1,11 +1,10 @@
-package org.bianrylogicit.httpusers;
+package org.armancodeblock.httpusers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestClient;
 import org.springframework.web.client.support.RestClientAdapter;
-import org.springframework.web.client.support.RestTemplateAdapter;
 import org.springframework.web.service.invoker.HttpServiceProxyFactory;
 
 @SpringBootApplication

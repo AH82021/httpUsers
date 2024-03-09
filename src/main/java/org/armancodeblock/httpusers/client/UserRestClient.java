@@ -1,12 +1,4 @@
-package org.bianrylogicit.httpusers.client;
-
-import org.bianrylogicit.httpusers.user.User;
-import org.springframework.core.ParameterizedTypeReference;
-import org.springframework.stereotype.Component;
-import org.springframework.web.client.RestClient;
-
-import java.util.List;
-import java.util.Optional;
+package org.armancodeblock.httpusers.client;
 
 //@Component
 //public class UserRestClient {

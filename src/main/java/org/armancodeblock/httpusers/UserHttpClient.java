@@ -1,6 +1,6 @@
-package org.bianrylogicit.httpusers;
+package org.armancodeblock.httpusers;
 
-import org.bianrylogicit.httpusers.user.User;
+import org.armancodeblock.httpusers.user.User;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.service.annotation.GetExchange;
 

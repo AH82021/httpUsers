@@ -8,7 +8,7 @@
         <version>3.2.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.bianrylogicit</groupId>
+    <groupId>org.armancodeblock</groupId>
     <artifactId>httpUsers</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>httpUsers</name>
