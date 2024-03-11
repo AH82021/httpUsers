@@ -22,6 +22,7 @@ public class HttpUsersApplication {
         HttpServiceProxyFactory factory = HttpServiceProxyFactory.builderFor(RestClientAdapter.create(client)).build();
         return  factory.createClient(UserHttpClient.class);
 
+// how to customize the behavior of the RestClient.
     }
 
 }
